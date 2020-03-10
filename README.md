@@ -17,4 +17,4 @@ Abaixo segue o que foi utilizado na criação deste template:
 
 ## Material de estudo
 
-Rocketseat - [YouTube Rockeseat](https://www.youtube.com/watch?v=y5Hv7pMA1uo&t=134s)
+Rocketseat - [YouTube Rockeseat](https://www.youtube.com/watch?v=y5Hv7pMA1uo&t)

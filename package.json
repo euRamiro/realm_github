@@ -11,7 +11,7 @@
     "commit": "git-cz"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "husky": "^4.2.3",
     "prop-types": "^15.7.2",
     "react": "16.9.0",
